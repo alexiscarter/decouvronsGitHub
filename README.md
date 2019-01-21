@@ -1,12 +1,4 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/alexiscarter/decouvronsGitHub/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Découvrons ensemble GitHub, Git et compagnie
 
 ```markdown
 Syntax highlighted code block
@@ -24,13 +16,20 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### S'incrire
+https://github.com/join  
+Spécial pour étudiant https://education.github.com/pack
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexiscarter/decouvronsGitHub/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Programme
+1. Principes et champs des possibles
+1. Utiliser le terminal ou pa
+1. Naviguer dans GitHub
+1. Git et RStudio : '_Version control_'
+1. Faire une page pour un projet : '_Project site_' https://pages.github.com/
+1. Faire un site internet : '_User site_' https://pages.github.com/
 
-### Support or Contact
+
+### Autres
 Pour un autre alternative -> [GitLab](https://about.gitlab.com/)
