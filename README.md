@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="phd101212s.gif" alt="drawing" width="250"/>
+  <img src="phd101212s.gif" alt="drawing" width="300"/>
 </p>
 
 
@@ -11,7 +11,7 @@ Git : Un logiciel de gestion de versions décentralisé [Wikipedia](https://fr.w
 GitHub : Un hébérgeur utilisant Git, beaucoup de fonctionnalités [Wikipedia](https://fr.wikipedia.org/wiki/GitHub)
 
 <p align="center">
-<img src="git.png" alt="drawing" width="240"/>
+<img src="git.png" alt="drawing" width="300"/>
 </p>
 
 ### Pour s'incrire
@@ -20,12 +20,12 @@ GitHub : Un hébérgeur utilisant Git, beaucoup de fonctionnalités [Wikipedia](
 
 ### Premier pas
 1. Naviguer dans GitHub
-1. Créer un répertoire sur la toile [lien](https://help.github.com/articles/create-a-repo/)
+1. Créer un répertoire sur la toile ([lien](https://help.github.com/articles/create-a-repo/))
 1. GitHub et RStudio : le '_Version control_'
   - Installation [Git](https://git-scm.com/downloads) sur ma machine
-  - Initialisation sur ma machine [https://help.github.com/articles/set-up-git/](https://help.github.com/articles/set-up-git/)
-  - Créer un repertoire en utilisant RStudio
-  - Modifier mon repertoire en utilisant RStudio
+  - Et initialisation ([lien](https://help.github.com/articles/set-up-git/))
+  - Créer un repertoire en utilisant RStudio -> [solution](http://r-pkgs.had.co.nz/git.html#git-init)
+  - Et le modifier en utilisant RStudio
 
 
 ### Pour aller plus loin
